@@ -1,0 +1,4 @@
+Mar 19 oct 2021 14:04:55 CEST
+JLH      console  Oct 19 09:00 
+JLH      ttys000  Oct 19 09:06 
+results.txt
