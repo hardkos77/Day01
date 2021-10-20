@@ -1,1 +1,1 @@
-tail -n+11 /etc/passwd | sort | tr -d _ | cut -d: -f1 | xargs
+tail -n+11 /etc/passwd | tr -d _ | sort | cut -d: -f1 | xargs

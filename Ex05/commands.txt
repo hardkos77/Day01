@@ -1,2 +1,2 @@
-{ date;who;ls; } > result.xt
+{ date;who;ls; } > result.txt
 
